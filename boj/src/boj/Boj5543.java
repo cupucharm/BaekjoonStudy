@@ -7,7 +7,7 @@ public class Boj5543 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int bprice = 100;
-		int jprice =100;
+		int jprice = 100;
 		
 		int burger = 2000;
 		int juice = 2000;
